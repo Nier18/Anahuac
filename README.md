@@ -3,3 +3,9 @@ Practica de taller de Github
 **TITULO**
 
 //TELL ME WHY YOU DID IT
+
+Hola
+
+Adios
+
+Me gusta el helado
